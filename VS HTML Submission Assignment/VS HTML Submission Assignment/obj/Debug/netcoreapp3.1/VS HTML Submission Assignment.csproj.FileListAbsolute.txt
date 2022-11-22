@@ -1,0 +1,38 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.deps.json
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.runtimeconfig.json
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.runtimeconfig.dev.json
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.dll
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.Views.dll
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\bin\Debug\netcoreapp3.1\VS HTML Submission Assignment.Views.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.AssemblyInfo.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.RazorAssemblyInfo.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.RazorAssemblyInfo.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\staticwebassets\VS HTML Submission Assignment.StaticWebAssets.Manifest.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\staticwebassets\VS HTML Submission Assignment.StaticWebAssets.xml
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\VS HTML Submission Assignment.styles.css
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.TagHelpers.input.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.TagHelpers.output.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.RazorCoreGenerate.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.RazorTargetAssemblyInfo.cs
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.Views.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.dll
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.genruntimeconfig.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Tech-Academy-Projects\VS HTML Submission Assignment\VS HTML Submission Assignment\obj\Debug\netcoreapp3.1\VS HTML Submission Assignment.csproj.CopyComplete
